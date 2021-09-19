@@ -143,6 +143,8 @@ def station_stats(df):
 
 
     # TO DO: display most frequent combination of start station and end station trip
+
+    #extracting the start time and end time columns from the dataframe
     common_end_start_station =df[['Start Station', 'End Station']]
    
     most_common= (common_end_start_station['Start Station'] + ';' + common_end_start_station['End Station']).mode()[0]
