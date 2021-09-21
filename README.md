@@ -7,7 +7,7 @@ Sunday 19 september 2021
 Explore U.S. bikeshare Data
 
 ### Description
-Using pyhton to understand U.S. bikeshare data. Calculate statistics and build and interactive environment where a user chooses the data and filter for a dataset to analyze.
+Using python to understand U.S. bikeshare data. Calculate statistics and build and interactive environment where a user chooses the data and filter for a dataset to analyze.
 
 ### Files used
 chicago.csv data file
